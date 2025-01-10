@@ -7,11 +7,6 @@ Simple Neuron visualization using the Leaky Integrate-and-Fire Model. Objectives
 - Using numerical libraries like **NumPy**.
 - Simple differential equations in neuroscience.
 
-Description
-The LIF model describes how the membrane potential 
-
-V of a neuron evolves over time, integrating inputs and "firing" (spiking) when the potential reaches a threshold. The membrane potential decays over time due to a "leak."
-
 ## Description
 The LIF model describes how the membrane potential (𝑉) of a neuron evolves over time, integrating inputs and "firing" (spiking) when the potential reaches a threshold. The membrane potential decays over time due to a "leak."
 
