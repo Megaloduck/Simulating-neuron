@@ -1,5 +1,8 @@
 # Simulating-neuron
-Simple Neuron visualization using the Leaky Integrate-and-Fire Model. Objectives to Simulate the behavior of a single neuron using the leaky integrate-and-fire (LIF) model. This project introduces basic neuroscience concepts and computational modeling.
+Simple Neuron visualization using the Leaky Integrate-and-Fire Model. 
+Objectives to Simulate the behavior of a single neuron using the leaky integrate-and-fire (LIF) model. 
+
+This project introduces basic neuroscience concepts and computational modeling.
 
 ## What You'll required
 - Python basics: variables, loops, and functions.
