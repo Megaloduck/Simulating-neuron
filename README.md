@@ -1,4 +1,4 @@
-# Simulating-neuron
+# Simulating Neuron
 Simple Neuron visualization using the Leaky Integrate-and-Fire Model. 
 Objectives to Simulate the behavior of a single neuron using the leaky integrate-and-fire (LIF) model. 
 
